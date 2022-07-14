@@ -12,6 +12,4 @@ The PCB is designed to mount under the control panel on a pair of 6 mm spacers (
 
 The design assumes the use of Omron B3F-1070 switches, but any pushbutton in the common 6×6 mm footprint should work, assuming it's tall enough. (The JST-PH connector sits on the same side of the PCB as the switches, which is why spacers & tall buttons are necessary.)
 
-These have been manufactured (by JLCPCB) but **not yet tested for electrical soundness**. Manufacture at your own risk.
-
 This project was designed using EasyEDA.
